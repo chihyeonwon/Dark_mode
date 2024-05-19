@@ -1,6 +1,6 @@
 # Dark_mode
 [Android] 다크 모드 스타일 비활성화 하기
-#### '내 앱은 아직 다크 모드를 지원하지 않아요' 할 때
+#### '내 앱은 아직 다크 모드를 지원하지 않아요' 할 때
 
 ## Night Style
 ![image](https://github.com/chihyeonwon/Dark_mode/assets/58906858/615c246f-953a-4103-ab89-fe7245aaf8ec)     
